@@ -1,3 +1,4 @@
 # my-mint-project
 
-`DEMO` : https://github.com](https://my-mint-project.netlify.app/
+###DEMO:
+[Link](https://github.com](https://my-mint-project.netlify.app)
